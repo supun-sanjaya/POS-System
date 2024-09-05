@@ -1,0 +1,79 @@
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.exe.config
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.exe
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.pdb
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.LOGIN.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Properties.Resources.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.GenerateResource.cache
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.exe
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.pdb
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Main_Form.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.addproduct.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.StockForm.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.CashierForm.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Add_Users.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.ReportForm.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.StockReport.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.SalesReportpre.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.CreditReport.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\EnvDTE.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\stdole.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\EnvDTE.xml
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.CopyComplete
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Dashboard_Form.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Settings_Form.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.UserLOGINDetails_Form.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.QtyRefillstock.resources
+C:\Users\sanja\Desktop\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.ReturnItem.resources
